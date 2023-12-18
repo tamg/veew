@@ -6,14 +6,12 @@ Watch their Livelpeer videos in a large screen within a customizable 3D home env
 
 ## Prototype Demo
 
-
-![Alt Text](./public/prototype.mp4)
----
+## ![Alt Text](https://github.com/tamg/veew/blob/main/public/prototype.mp4)
 
 ## Quickstart
 
 ```bash
-git clone 
+git clone
 npm install
 npm run dev
 ```
