@@ -1,6 +1,6 @@
 # Veew.tv [ 🚧 WIP 🚧]
 
-Watch their Livelpeer videos in a large screen within a customizable 3D home environment in AR and VR headsets.
+[Veew.tv](https://veew.tv/) : Watch their Livepeer videos in a large screen within a customizable 3D home environment in AR and VR headsets.
 
 ---
 
