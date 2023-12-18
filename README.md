@@ -6,7 +6,7 @@ Watch their Livelpeer videos in a large screen within a customizable 3D home env
 
 ## Prototype Demo
 
-## ![Alt Text](https://github.com/tamg/veew/blob/main/public/prototype.mp4)
+## ![Veed Prototype](https://github.com/tamg/veew/assets/16869764/4ff330dd-2e90-48cb-9a2e-f9fa813a120d)
 
 ## Quickstart
 
